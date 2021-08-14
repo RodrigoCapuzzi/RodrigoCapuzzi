@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Collinson Group as a Business Intelligence Analyst
-- 🌱 I’m currently learning C, Python, DAX, M, VBA, SQL and R.
+- 👨‍🎓 I’m currently learning C, Java and Shellscript at College.
+- 👨‍🔧 I work with SQL, Dax, Python and VBA
+- 💻 I want to R, Html, CSS and Javascript
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 😄 Pronouns: He/him
 
