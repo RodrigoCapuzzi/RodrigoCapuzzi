@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Collinson Group as a Business Intelligence Analyst
+- 🔭 I’m currently working at Pagar.me as a Business Intelligence Analyst
 - 👨‍🎓 I’m currently learning C, Java and Shellscript at College.
 - 👨‍🔧 I work with SQL, Dax, Python and VBA
 - 💻 I want to R, Html, CSS and Javascript
