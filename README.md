@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Microverse as a Data Engineer.
+- 🔭 I’m currently working at BravoBike as a Data Engineer.
 - 👨‍🎓 I’m currently learning HTML, CSS, Javascript and Java at College.
 - 👨‍🔧 I work with SQL, Python and Shellscript
 - 💻 I want to learn more about dbt, docker and cloud
