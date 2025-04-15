@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at JobRad Loop as a Data Engineer.
-- 👨‍🎓 I have a Bachelor in Systems Analysis and Development by Mackenzie Presbiterian University in Brazil.
-- 👨‍🔧 I work mostly with SQL (Postgres), Python and Shellscript.
-- 💻 I want to learn more about dbt, docker and cloud.
-- 👯 I’m looking to collaborate on Data Engineering Projects.
-- 😄 Pronouns: He/him
+🔭 Currently contributing as a Data Engineer at JobRad Loop.
+👨‍🎓 I hold a Bachelor's degree in Systems Analysis and Development from Mackenzie Presbyterian University in Brazil.
+👨‍🔧 I'm proficient in SQL (Postgres), Python, and Shell scripting.
+💻 Eager to expand my skillset in dbt, Docker, and cloud technologies.
+👯 Open to collaborating on Data Engineering projects.
+😄 Pronouns: He/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCapuzzi)](https://github.com/RodrigoCapuzzi/github-readme-stats)
 
